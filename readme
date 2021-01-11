@@ -1,0 +1,8 @@
+This chat bot allows the user to talk to themselves because the server will 
+    echo the response the user gives.
+
+How to use:
+1) Start the server by navigating to the directory of 'server.py' and run 
+    in a terminal.
+2) Load 'index.html' using a web browser of your choice.
+3) Begin talking to yourself
